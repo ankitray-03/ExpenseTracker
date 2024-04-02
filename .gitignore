@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# build output
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+# test output
+coverage/
+test-results/
+
+# local env files
+.env.local
+.env.development
+.env.test
+
+# OS generated files
+.DS_Store
+Thumbs.db
